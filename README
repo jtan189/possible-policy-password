@@ -1,0 +1,7 @@
+A user enters a length of a password and a string containing no spaces. You have to print out all of the possible passwords
+
+Password conditions:
+1. the first and last letter must be uppercase
+2. must have at least 3 vowels
+3. if the length is even, the middle spot and the character next to it must be the same (one can be cap the other can be lowercase) and they must be vowels
+4. If odd, same thing except at a different position
